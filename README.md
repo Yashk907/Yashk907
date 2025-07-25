@@ -55,9 +55,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Yashk907&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashk907&layout=compact&theme=tokyonight" height="150"/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Yashk907&color=blue&style=for-the-badge)
-
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yashk907&color=blue&style=for-the-badge)
 
 ---
 
